@@ -1,1 +1,1 @@
-# visualize_pg_db_queries
+Visualize Postgres DB queries
